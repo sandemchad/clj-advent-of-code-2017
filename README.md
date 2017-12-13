@@ -1,37 +1,14 @@
 # clj-advent-of-code-2017
 
-FIXME: description
+This repo is a collection of my solutions to 2017's [Advent of Code](http://adventofcode.com/) written in clojure.
+This is just a learning opportunity for me to to get some experience writing clojure.
 
-## Installation
+### Completed Passing Solutions
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar clj-advent-of-code-2017-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
-# clj-advent-of-code-2017
+- Day 1
+- Day 2
+- Day 3
+- Day 4
+- Day 7 (Part 1)
+- Day 10
+- Day 13 (Part 1)
