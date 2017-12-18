@@ -10,5 +10,6 @@ This is just a learning opportunity for me to to get some experience writing clo
 - Day 3
 - Day 4
 - Day 7 (Part 1)
+- Day 8
 - Day 10
 - Day 13
